@@ -6,6 +6,9 @@ This is the GameLogic class.
 It contains useful functions used all around the game.
 */
 
+// Test för att se hur bra github är.
+
+
 class GameLogic
 {
     public:
