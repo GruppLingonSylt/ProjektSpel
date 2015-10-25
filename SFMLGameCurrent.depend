@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1443963257 source:c:\users\sixten\desktop\sfmlgamecurrent\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<cmath>
+	<utility>
+	<math.h>
+	<vector>
+	"Player.h"
+	"Bullet.h"
+
+1443550844 c:\users\sixten\desktop\sfmlgamecurrent\player.h
+	"GameLogic.h"
+
+1443963750 c:\users\sixten\desktop\sfmlgamecurrent\gamelogic.h
+
+1443550615 c:\users\sixten\desktop\sfmlgamecurrent\bullet.h
+
