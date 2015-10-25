@@ -1,0 +1,8 @@
+1. Initiera Github Desktop (Gör tutorial om man vill)
+2. Skapa en Github Mapp för lagring.
+3. Clona Projektet och öppna det med GitHub Desktop
+
+Man bör nu ha alla filerna i GitHub Desktop
+
+Gör en ändring i något och försök commita till mastern.
+Kom ihåg att göra en beskrivning av ändringen (annars går det ej att commita till mastern.)
